@@ -1,0 +1,19 @@
+{
+  "name": "replaceobj",
+  "version": "0.0.1",
+  "description": "替换文档内容",
+  "main": "index.js",
+  "dependencies": {
+    "gulp": "^3.9.1",
+    "through2": "^2.0.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "relpace"
+  ],
+  "author": "zhengdewei",
+  "license": "ISC"
+}
